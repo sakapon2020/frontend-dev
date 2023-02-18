@@ -30,6 +30,28 @@
   }
 }
 
+// @-webkit-keyframes kf-cover-slide {
+//   0% {
+//     -webkit-transform-origin: left;
+//     -webkit-transform: scaleX(0);
+//   }
+
+//   50% {
+//     -webkit-transform-origin: left;
+//     -webkit-transform: scaleX(1);
+//   }
+
+//   50.1% {
+//     -webkit-transform-origin: right;
+//     -webkit-transform: scaleX(1);
+//   }
+
+//   100% {
+//     -webkit-transform-origin: right;
+//     -webkit-transform: scaleX(0);
+//   }
+// }
+
 @keyframes kf-cover-slide {
   0% {
     transform-origin: left;
